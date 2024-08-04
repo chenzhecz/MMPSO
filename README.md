@@ -1,2 +1,2 @@
-Accurate diagnosis of peripheral pulmonary lesions based on endobronchial ultrasound images using multi-modal features. 
+Accurate Diagnosis of Peripheral Pulmonary Lesions Based on Endobronchial Ultrasound Images Using Multi-modal Features
 The code will be made available after the article is published.
